@@ -2,6 +2,7 @@
 
 def display_board()
   
+  row = [" ", "|", " ", ]
   puts board
   
 end
