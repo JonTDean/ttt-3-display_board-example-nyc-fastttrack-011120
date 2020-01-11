@@ -3,6 +3,6 @@
 def display_board()
   
   row = [" ", " ", " " ]
-  puts board
+  puts row
   
 end
